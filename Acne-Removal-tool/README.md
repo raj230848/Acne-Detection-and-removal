@@ -50,6 +50,9 @@ Evaluation Metrics: Assessed using PSNR, SSIM, and user survey ratings.
 
 Future Enhancements: Planned improvements include supporting real-time video processing and deploying optimized models on mobile devices.
 
+Method	PSNR	SSIM	User Satisfaction
+Traditional CV	28.5	0.82	65%
+Proposed DLN Model	32.1	0.91	90%
 📊 Detection Performance
 Model	mAP@0.5	Precision	Recall
 DLIB	0.95	0.93	0.96
